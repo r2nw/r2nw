@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm Rem, a passionate cybersecurity enthusiast specializing in Red Team operations and Penetration Testing. With a keen interest in breaking (and securing) things, I'm constantly exploring new attack vectors and defense strategies.
+Hi there! I'm Ren, a passionate cybersecurity enthusiast specializing in Red Team operations and Penetration Testing. With a keen interest in breaking (and securing) things, I'm constantly exploring new attack vectors and defense strategies.
 
 - 🎓 Studying Security at Ho Chi Minh City University of Technology
 - 🏆 Certified Pentest CBJS, Redteam CBJS

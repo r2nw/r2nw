@@ -1,14 +1,14 @@
 # 🚀 Welcome to My Red Team & Pentest Hub! 🛡️
 
-![Banner](https://your-image-url.com/banner.png)
+![Banner](https://avatars.githubusercontent.com/u/121148768?s=400&u=bc8e09d8b0ef9d8c0d54aced457859b2f9167805&v=4)
 
 ## 👨‍💻 About Me
 
-Hi there! I'm [Your Name], a passionate cybersecurity enthusiast specializing in Red Team operations and Penetration Testing. With a keen interest in breaking (and securing) things, I'm constantly exploring new attack vectors and defense strategies.
+Hi there! I'm Rem, a passionate cybersecurity enthusiast specializing in Red Team operations and Penetration Testing. With a keen interest in breaking (and securing) things, I'm constantly exploring new attack vectors and defense strategies.
 
-- 🎓 Studying [Your Degree] at [Your University]
-- 🏆 Certified [Your Certifications, e.g., OSCP, CEH]
-- 🔭 Currently working on [Current Project or Research]
+- 🎓 Studying Security at Ho Chi Minh City University of Technology
+- 🏆 Certified Pentest CBJS, Redteam CBJS
+- 🔭 Currently working on HDBank
 
 ## 🛠 Skills & Tools
 
@@ -20,41 +20,27 @@ Hi there! I'm [Your Name], a passionate cybersecurity enthusiast specializing in
 
 ## 🏆 Achievements
 
-- 🥇 [Your Notable Achievement]
-- 🌟 [Another Achievement]
-- 💡 [Contribution to Open Source Security Tool]
+- 🥇 Top 1 Hutech got talent CCNA
+- 🥇 Top 1 CTF Level CLB
+- 🌟 Top 2 CTF CookieHanHoan
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 🔥 Top Projects
-
-### [Project Name 1]
-Brief description of the project and its significance in Red Teaming or Pentesting.
-
-### [Project Name 2]
-Another project highlight with its key features or findings.
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=r2nw&show_icons=true&theme=radical)
 
 ## 📝 Latest Blog Posts
 
-- [Title of Your Latest Blog Post]
-- [Another Interesting Article You Wrote]
-
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Personal Website](https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)](https://your-website.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ren1337]
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/R3n_1337)
+[![Personal Website](https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)](https://r2nw.github.io)
 
 ## 📚 Resources
 
 Here are some resources I find valuable for Red Teaming and Penetration Testing:
-
-- [Link to Resource 1]
-- [Link to Resource 2]
-- [Link to Resource 3]
+...
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [Ren](https://github.com/r2nw)
